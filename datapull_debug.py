@@ -21,7 +21,7 @@ from textClassify import *
 ############## USER INPUT ###############
 #########################################
 
-mainUrl = 'https://www.yelp.com/biz/mr-chow-new-york'
+mainUrl = 'HTTP://YELP.COM/YELP_LOCATION_URL_HERE'
 pagesToScan = 14
 
 #########################################

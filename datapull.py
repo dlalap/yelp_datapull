@@ -19,7 +19,7 @@ from textClassify import classify, index
 ############## USER INPUT ###############
 #########################################
 
-mainUrl = 'https://www.yelp.com/biz/mr-chow-ciudad-de-méxico'
+mainUrl = 'HTTP://YELP.COM/CLIENT_URL_HERE'
 pagesToScan = 1
 
 #########################################

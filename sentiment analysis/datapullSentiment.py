@@ -23,9 +23,9 @@ from natLanguage import *
 ############## USER INPUT ###############
 #########################################
 
-mainUrl = 'https://www.yelp.com/biz/by-chloe-bleecker-street-new-york-2'
+mainUrl = 'HTTPS://YELP.COM/REVIEW_LINK_HERE'
 pagesToScan = 1
-outputName = 'nyAutomated/byCHLOE_bleecker_caseTest.xlsx'
+outputName = 'nyAutomated/YELP_LOCATION_NAME_OUTPUT.xlsx'
 
 #########################################
 ############ END USER INPUT #############
